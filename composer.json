@@ -1,0 +1,16 @@
+{
+  "name": "masmoudi-mehdi/workopia-php",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Mehdi Masmoudi",
+      "email": "massmoudi.mehdi95@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
